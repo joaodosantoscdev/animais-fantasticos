@@ -4,7 +4,7 @@
 <hr>
 <img src="imgs/animais-fan.jpg"></img>
 <br>
-<img src="imgs/reponsive.jpg"></img>
+<img src="imgs/reponsive.JPG"></img>
 <hr>
 <p>Foi aplicado aqui meus conhecimentos de HTML5, CSS, JavaScript  manipulando do DOM, gerando efeitos e uma melhor experiência visual para o usuário.</p>
 <p>Também foram ultilizados conceitos para melhorar UI/UX, presando pela responsividade e rapidez da aplicação 💻 🖥️📱</p>
