@@ -1,7 +1,7 @@
 export default function initModal() {
-  const btnAbrir = document.querySelector('[data-modal="abrir"');
-  const btnFechar = document.querySelector('[data-modal="fechar"');
-  const containerModal = document.querySelector('[data-modal="container"');
+  const btnAbrir = document.querySelector('[data-modal="abrir"]');
+  const btnFechar = document.querySelector('[data-modal="fechar"]');
+  const containerModal = document.querySelector('[data-modal="container"]');
 
   function toggleModal(event) {
     event.preventDefault();
