@@ -38,7 +38,7 @@ export default class AnimationScroll {
     return this;
   }
 
-  //remove the event scroll
+  // remove the event scroll
   stop() {
     window.removeEventListener('scroll', this.checkDistance);
   }
