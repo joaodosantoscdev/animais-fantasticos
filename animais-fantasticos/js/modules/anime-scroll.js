@@ -1,9 +1,11 @@
+import debounce from './debounce.js';
+
 export default class AnimationScroll {
   constructor(sections) {
     this.sections = document.querySelectorAll(sections);
     this.windowHalfSize = window.innerHeight * 0.55;
 
-    this.checkDistance = this.checkDistance.bind(this);
+    this.checkDistance = debounce(this.checkDistance.bind(this), 60);
   }
 
   // get the distance of each item acording with the top
