@@ -1,3 +1,4 @@
+/* eslint-disable max-classes-per-file */
 import debounce from './debounce.js';
 
 export default class Slide {

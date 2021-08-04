@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7 8" width="7" height="8">
+	<title>arrow-black-svg</title>
+	<defs>
+		<image  width="7" height="8" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAICAMAAAAC2hU0AAAAAXNSR0IB2cksfwAAAEJQTFRFAAAAHx8fICAg8/Pz8vLylpaW+Pj4IiIi////7u7uIiIiICAgmZmZ8PDwmJiY9PT0RkZGICAg6enp6urqVlZWICAgHTW+cQAAABZ0Uk5TADko//99HSv//zwtXP9b/1wn//9/N2n7XEEAAAA0SURBVHicY2BgZAADJmYWVjYgzc7BwcnJxcDAzQEEnDwQmpcPJM7ML8DAICgkLALWIAomASbOAWf9b9YaAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="arrow-black-svg (1)" href="#img1" x="0" y="0" />
+</svg>

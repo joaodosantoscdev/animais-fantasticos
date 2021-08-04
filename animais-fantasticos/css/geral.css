@@ -57,6 +57,32 @@ body {
   letter-spacing: 0.1em;
 }
 
+.arrow-black {
+  background: url('../img/arrow-black.svg') no-repeat center center;
+  display: inline-block;
+  width: 8px;
+  height: 10px;
+}
+
+.menu li a:hover {
+  color: #fff;
+  transition: all .2s ease-in-out;
+}
+
+/* hover-integrado a classe .arrow-black */
+.menu li a:hover > span {
+  background: url('../img/arrow-white.svg') no-repeat center center;
+  display: inline-block;
+  width: 8px;
+  height: 10px;
+  transition: all .2s ease-in-out;
+  transform: rotate(90deg);
+  transition: transform .2s ease-in-out;
+}
+
+
+
+
 .grid-section {
   grid-column: 2 / 4;
   width: 100%;
@@ -68,9 +94,13 @@ body {
   margin-bottom: 4rem;
 }
 
+section h1.titulo-principal {
+  font-size: 6rem;
+}
+
 .titulo {
   font-family: "Playfair Display SC", georgia;
-  font-size: 6rem;
+  font-size: 4rem;
   line-height: 1;
   font-weight: 400;
   margin-bottom: 1rem;
@@ -216,8 +246,13 @@ body {
     grid-column: 1 / 3;
   }
   .grid-section h1 {
-    font-size: 3rem;
+    font-size: 2.5rem;
   }
+
+  .grid-section h1.titulo-principal {
+    font-size: 2.5rem;
+  }
+
   .menu {
     margin-top: 0px;
   }
@@ -271,12 +306,19 @@ body {
 }
 
 [data-anime="accordion"] dt::after {
-  content: "⤵";
+  content: "";
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  background: url(../img/arrow-red.svg) no-repeat center center;
   margin-left: 10px;
+  transform: rotate(90deg);
+  transition: transform .3s;
 }
 
 [data-anime="accordion"] dt.ativo::after {
-  content: "⤴";
+  content: "";
+  transform: rotate(-90deg)
 }
 
 [data-anime="accordion"] dd.ativo {
@@ -328,3 +370,4 @@ body {
   font-weight: bold;
   border-radius: 2px;
 }
+
