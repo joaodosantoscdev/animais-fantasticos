@@ -37,8 +37,8 @@
   <li>Tooltip 📍</li>
   <li>Organics/Dinamics animations 🧑‍💻</li>
 </ul>
-<small>ATT: 07/14/2021 - 👨‍💻 João Vítor Carvalho</small>
-<small>ATT: 08/04/2021 - entire code refactored do be tottaly customized, bugs on interface fixed,<br> and added some CSS and HTML touches - 👨‍💻 João Vítor Carvalho</small>
+<p>ATT: 07/14/2021 - 👨‍💻 João Vítor Carvalho</p>
+<p>ATT: 08/04/2021 - entire code refactored do be tottaly customized, bugs on interface fixed, and added some CSS and HTML touches - 👨‍💻 João Vítor Carvalho</p><br>
 <em>'This project has no commercial purposes, it was carried out only for the application of my studies'📚</em>
 <hr>
 <strong>----João Vítor Carvalho 👨‍💻 ---</strong>
