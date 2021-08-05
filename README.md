@@ -21,8 +21,8 @@
 <img src="imgs/screen3-mobile.jpg"></img>
 <br>
 <img src="imgs/screen4-mobile.jpg"></img>
-
 <hr>
+<h3>Overview ⮯</h3>
 <p> There was applied here my knownledges in HTML5, CSS & JavaScript with DOM manipulation, creating effects and a better visual experience for the final user.</p>
 <h3>The path of the project was to clearly apply the most used and up-to-date concepts used in this language, without any kind of framework.</h3>
 <p>Concepts were also used to improve UI/UX, ensuring the responsiveness and speed of the application 💻🖥️📱</p>
