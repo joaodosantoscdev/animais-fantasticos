@@ -1,7 +1,7 @@
 <h2>Hello ❕</h2>
 <h3>➡️This project was developed using <strong>HTML5, CSS & JavaScript</strong> 🛠️</h3>
 <p>➡️Developed during Origamid JS classes.</p>
-<p>You can acess<a href="https://joaodosantoscdev.github.io/animais-fantasticos/animais-fantasticos/" target="_blank" alt="animais-fantasticos">here</a></p>
+<p>You can acess <a href="https://joaodosantoscdev.github.io/animais-fantasticos/animais-fantasticos/" target="_blank" alt="animais-fantasticos">here</a></p>
 <hr>
 <h3>Desktop 🖥️</h3>
 <img src="imgs/animais-fan.jpg"></img>
