@@ -14,13 +14,12 @@
 <hr>
 <h3>Mobile 📱</h3>
 <hr>
-<img src="imgs/screen1-mobile.jpg"></img>
-<br>
-<img src="imgs/screen2-mobile.jpg"></img>
-<br>
-<img src="imgs/screen3-mobile.jpg"></img>
-<br>
-<img src="imgs/screen4-mobile.jpg"></img>
+
+<div>
+<img height="400px" src="imgs/screen1-mobile.jpg"></img> <img height="400px" src="imgs/screen2-mobile.jpg"></img>
+<img height="400px" src="imgs/screen3-mobile.jpg"></img> <img height="400px" src="imgs/screen4-mobile.jpg"></img>
+</div>
+
 <hr>
 <h3>Overview ⮯</h3>
 <p> There was applied here my knownledges in HTML5, CSS & JavaScript with DOM manipulation, creating effects and a better visual experience for the final user.</p>
