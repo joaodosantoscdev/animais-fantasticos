@@ -16,7 +16,7 @@
 <hr>
 
 <div>
-<img height="400px" src="imgs/screen1-mobile.jpg"></img> <img height="400px" src="imgs/screen2-mobile.jpg"></img>
+<img height="400px" src="imgs/screen1-mobile.jpg"></img> <img height="400px" src="imgs/screen2-mobile.jpg"></img><br>
 <img height="400px" src="imgs/screen3-mobile.jpg"></img> <img height="400px" src="imgs/screen4-mobile.jpg"></img>
 </div>
 
